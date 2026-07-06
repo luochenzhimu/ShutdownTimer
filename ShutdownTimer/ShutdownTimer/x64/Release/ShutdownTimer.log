@@ -1,0 +1,8 @@
+﻿  ShutdownTimer.cpp
+C:\Users\luochenzhimu\Documents\Visual Studio 18\code\ShutdownTimer\ShutdownTimer.cpp(700,43): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+C:\Users\luochenzhimu\Documents\Visual Studio 18\code\ShutdownTimer\ShutdownTimer.cpp(709,43): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ShutdownTimer.vcxproj -> C:\Users\luochenzhimu\Documents\Visual Studio 18\code\ShutdownTimer\x64\Release\ShutdownTimer.exe

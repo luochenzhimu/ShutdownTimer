@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ShutdownTimer.vcxproj" Id="6f35dbc8-db42-47b0-bec0-fd4a82375c1f" />
+</Solution>
